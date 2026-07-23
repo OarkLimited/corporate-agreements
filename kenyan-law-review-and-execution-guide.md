@@ -77,7 +77,7 @@ The 2018 BRS search records Unity Plaza, Maasai Lodge Road, Ongata Rongai as reg
 
 The local repository at `/Users/en/Documents/GitHub/blober.io` showed:
 
-1. first identified commit `ab9d596c51ec72c057c917c18e7bf2983a8357fe`, dated 20 September 2025, authored by Charles from `mckabue@gmail.com`;
+1. first identified commit `ab9d596c51ec72c057c917c18e7bf2983a8357fe`, dated 20 September 2025, authored by Charles from <mckabue@gmail.com>;
 2. only Charles, under Kabue/Kabui spelling variants, as human Git author in the inspected history;
 3. many commits identifying GitHub Copilot as co-author;
 4. a private repository when checked while logged out;
@@ -95,7 +95,7 @@ That history is strong evidence of personal creation. It is not a basis for sayi
 The local repository at `/Users/en/Documents/GitHub/ToKnow.ai` and live site showed:
 
 1. first identified commit `4f8bd2f6e7d50c5a4ff564ead857695b13e3b1af`, dated 4 May 2024;
-2. that first commit uses the author email `charleskabui@microsoft.com`;
+2. that first commit uses the author email <charleskabui@microsoft.com>;
 3. subsequent principal authorship by Charles under personal email identities;
 4. a private source repository when checked while logged out;
 5. a GPLv3 licence file present since 7 May 2024;
@@ -116,7 +116,7 @@ The drafts rely on Charles's representations that:
 5. Microsoft allowed qualifying personal moonshot projects not using Microsoft time or resources;
 6. Oark did not employ, commission, fund, or direct the creation of the Products;
 7. no other human contributed code, design, data, copy, models, prompts, or branding;
-8. Product domains were paid for on Charles's personal credit card but are administered in a Cloudflare account using `oarklimited@gmail.com`;
+8. Product domains were paid for on Charles's personal credit card but are administered in a Cloudflare account using <oarklimited@gmail.com>;
 9. Oark has received Blober payments into its bank or merchant accounts since January 2026;
 10. ToKnow has not produced income;
 11. existing Blober sales are approximately 60 orders at about USD 49 each, with more expected;
@@ -185,7 +185,7 @@ Conduct clearance searches and apply at KIPI in Charles's personal name for the 
 
 ### 6.2 Domain ownership evidence
 
-Personal credit-card payment supports Charles's beneficial claim, but registrar records, account ownership, recovery email, MFA, invoices, and provider terms are also important. Because both domains remain inside an account using `oarklimited@gmail.com`, there is practical insolvency and lockout risk even if the contract says Charles owns them.
+Personal credit-card payment supports Charles's beneficial claim, but registrar records, account ownership, recovery email, MFA, invoices, and provider terms are also important. Because both domains remain inside an account using <oarklimited@gmail.com>, there is practical insolvency and lockout risk even if the contract says Charles owns them.
 
 The strongest action remains moving registrant, root account, recovery, MFA, billing, and renewal control to a Charles-controlled personal account and giving Oark delegated operational access. Charles chose not to do that now. The nominee/custodian clause is therefore useful but materially weaker than provider-level separation.
 
@@ -339,7 +339,7 @@ For this transaction, the safest route is wet-ink signature with witnesses, foll
 
 ### 10.2 What the email proves
 
-Email from `mckabue@gmail.com` to `oarklimited@gmail.com` can help prove delivery, knowledge, and acknowledgment. It is weaker than an exchange between independent controllers because Charles controls both sides. It does not prove that the Company signature was witnessed or that corporate authorization occurred.
+Email from <mckabue@gmail.com> to <oarklimited@gmail.com> can help prove delivery, knowledge, and acknowledgment. It is weaker than an exchange between independent controllers because Charles controls both sides. It does not prove that the Company signature was witnessed or that corporate authorization occurred.
 
 ### 10.3 Evidence Act preservation
 
@@ -501,7 +501,7 @@ After signing and scanning, calculate the hash locally:
 shasum -a 256 oark-ip-licence-agreement-signed.pdf
 ```
 
-Send from `mckabue@gmail.com` to `oarklimited@gmail.com` with:
+Send from <mckabue@gmail.com> to <oarklimited@gmail.com> with:
 
 **Subject:** `EXECUTED - Oark IP Licence - Effective 1 August 2026`
 
@@ -520,7 +520,7 @@ Send from `mckabue@gmail.com` to `oarklimited@gmail.com` with:
 > Charles Njogu Kabui
 > Personal capacity as Licensor
 
-Reply from `oarklimited@gmail.com`:
+Reply from <oarklimited@gmail.com>:
 
 > Oark Limited acknowledges receipt of the complete executed Agreement and corporate approval record identified by SHA-256 [INSERT HASH]. The documents have been entered in the Company's records under reference [INSERT]. This acknowledgment confirms receipt and record entry; it does not replace the signatures, witness attestations, statutory approvals, stamp duty, or other legal requirements.
 >

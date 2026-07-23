@@ -1,0 +1,33 @@
+project:
+  type: default
+  output-dir: _output
+
+format:
+  pdf:
+    pdf-engine: xelatex
+    documentclass: scrartcl
+    classoption:
+      - DIV=12
+      - headings=small
+    papersize: a4
+    fontsize: 10pt
+    linestretch: 1.12
+    mainfont: "Charter"
+    sansfont: "Avenir Next"
+    monofont: "Menlo"
+    geometry:
+      - top=20mm
+      - bottom=20mm
+      - left=18mm
+      - right=18mm
+      - headheight=14pt
+      - headsep=8mm
+      - footskip=10mm
+    colorlinks: true
+    linkcolor: OarkGreen
+    urlcolor: OarkGreen
+    citecolor: OarkGreen
+    toc: false
+    number-sections: false
+    include-in-header:
+      - file: quarto-header.tex

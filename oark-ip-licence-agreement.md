@@ -8,9 +8,9 @@
 
 ## PARTIES
 
-1. **Charles Njogu Kabui**, National ID No. 29393333, of MPost address 0707115007-00100, Nairobi GPO, Kenya, email `mckabue@gmail.com` (the **Licensor**, **Owner**, or **Charles**); and
+1. **Charles Njogu Kabui**, National ID No. 29393333, of MPost address 0707115007-00100, Nairobi GPO, Kenya, email <mckabue@gmail.com> (the **Licensor**, **Owner**, or **Charles**); and
 
-2. **Oark Limited**, company number **PVT-AAADAM3**, a private company limited by shares incorporated in Kenya on 23 February 2017, of Kenyatta Avenue, opposite the GPO Building, Nairobi 00100, Kenya, email `oarklimited@gmail.com` (the **Licensee**, **Company**, or **Oark**).
+2. **Oark Limited**, company number **PVT-AAADAM3**, a private company limited by shares incorporated in Kenya on 23 February 2017, of Kenyatta Avenue, opposite the GPO Building, Nairobi 00100, Kenya, email <oarklimited@gmail.com> (the **Licensee**, **Company**, or **Oark**).
 
 The Licensor and the Licensee are each a **Party** and together the **Parties**.
 
@@ -259,7 +259,7 @@ Owner Infrastructure is limited to the assets expressly identified in Schedule 3
 
 ### 5.2 Administrative account identifiers
 
-Where Owner Infrastructure is held in an account whose login, recovery address, billing profile, display name, or contact uses `oarklimited@gmail.com` or Oark's name:
+Where Owner Infrastructure is held in an account whose login, recovery address, billing profile, display name, or contact uses <oarklimited@gmail.com> or Oark's name:
 
 1. Oark acknowledges that the identifier was used for administrative convenience;
 2. as between the Parties, Oark acts only as custodian and nominee for the Licensor in relation to the identified Owner Infrastructure;
@@ -714,7 +714,7 @@ For arbitration communications, section 9 of the Arbitration Act, 1995, applies.
 
 ### 19.5 Emailing the executed Agreement
 
-After execution, the Licensor shall send the signed PDF from `mckabue@gmail.com` to `oarklimited@gmail.com`, and Oark shall reply from `oarklimited@gmail.com` acknowledging receipt and acceptance for its records. That exchange is additional evidence of delivery and acknowledgment. It does not replace signatures, witness attestation, corporate approval, tax compliance, or stamp duty.
+After execution, the Licensor shall send the signed PDF from <mckabue@gmail.com> to <oarklimited@gmail.com>, and Oark shall reply from <oarklimited@gmail.com> acknowledging receipt and acceptance for its records. That exchange is additional evidence of delivery and acknowledgment. It does not replace signatures, witness attestation, corporate approval, tax compliance, or stamp duty.
 
 ### 19.6 Entire agreement and non-reliance
 
@@ -755,7 +755,7 @@ Except for rights expressly preserved for an End User under clause 10, a person 
 1. Product: Blober / blober.io.
 2. Function: desktop and related software for transferring and managing files across storage providers, together with its web presence and documentation.
 3. Creation began: approximately 20 September 2025.
-4. First identified repository commit: `ab9d596c51ec72c057c917c18e7bf2983a8357fe`, authored by Kabue Charles using `mckabue@gmail.com` on 20 September 2025.
+4. First identified repository commit: `ab9d596c51ec72c057c917c18e7bf2983a8357fe`, authored by Kabue Charles using <mckabue@gmail.com> on 20 September 2025.
 5. Repository reviewed: `https://github.com/blober-io/blober.io`, controlled through the Licensor's personal GitHub identity `https://github.com/mckabue`; the repository returned 404 to a logged-out reviewer on 23 July 2026 and appeared non-public.
 6. Reviewed repository state: commit `0ab02aa1b0629cbe326c1ea7bbd280088acd57cb` dated 23 July 2026, subject to confirmation in the signed evidence manifest.
 7. The Git author audit identified only Charles under spelling variants Kabue/Kabui as human author. Some commits identify GitHub Copilot as co-author; AI-assisted material is governed by clause 7.5.
@@ -798,7 +798,7 @@ The following are not exclusively owned proprietary Blober assets:
 1. Product: ToKnow / toknow.ai.
 2. Function: a publishing and research website for articles, analysis, data, software demonstrations, and related content. It is separate from Blober.
 3. Creation began: approximately 4 May 2024.
-4. First identified commit: `4f8bd2f6e7d50c5a4ff564ead857695b13e3b1af`, authored as Charles Kabui using `charleskabui@microsoft.com` on 4 May 2024. The Licensor represents that the email address was an author identifier only and that the work was created on personal time and resources. Independent review of the applicable employment IP terms remains strongly recommended.
+4. First identified commit: `4f8bd2f6e7d50c5a4ff564ead857695b13e3b1af`, authored as Charles Kabui using <charleskabui@microsoft.com> on 4 May 2024. The Licensor represents that the email address was an author identifier only and that the work was created on personal time and resources. Independent review of the applicable employment IP terms remains strongly recommended.
 5. Source repository reviewed: `https://github.com/ToKnow-ai/ToKnow.ai`; it returned 404 to a logged-out reviewer on 23 July 2026 and appeared non-public.
 6. Reviewed repository state: commit `86332660347a7094185fdd8bfb3b99be5137b934` dated 23 July 2026, subject to confirmation in the signed evidence manifest.
 7. Live site reviewed: `https://toknow.ai/`.
@@ -838,9 +838,9 @@ The following are not exclusively owned proprietary ToKnow assets:
 
 | Asset | Administrative position at drafting | Position between the Parties |
 |---|---|---|
-| `blober.io` domain | Paid using Licensor's personal credit card; held in a Cloudflare account using `oarklimited@gmail.com` | Licensor-owned; Oark is custodian only |
-| `toknow.ai` domain | Paid using Licensor's personal credit card; held in a Cloudflare account using `oarklimited@gmail.com` | Licensor-owned; Oark is custodian only |
-| GitHub identity `mckabue` | Personal account using `mckabue@gmail.com` | Licensor-owned |
+| `blober.io` domain | Paid using Licensor's personal credit card; held in a Cloudflare account using <oarklimited@gmail.com> | Licensor-owned; Oark is custodian only |
+| `toknow.ai` domain | Paid using Licensor's personal credit card; held in a Cloudflare account using <oarklimited@gmail.com> | Licensor-owned; Oark is custodian only |
+| GitHub identity `mckabue` | Personal account using <mckabue@gmail.com> | Licensor-owned |
 | GitHub organisations/repositories for Blober and ToKnow | Controlled through the Licensor's personal GitHub identity, subject to provider records | Licensor-owned original repository rights; third-party material excluded |
 | Product source and release-signing keys personally generated and controlled by Licensor | To be itemised in the signed evidence manifest without exposing secrets | Licensor-owned |
 

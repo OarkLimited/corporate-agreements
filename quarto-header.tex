@@ -1,0 +1,47 @@
+\usepackage[table]{xcolor}
+\definecolor{OarkGreen}{HTML}{1F5A4E}
+\definecolor{OarkGold}{HTML}{9B671D}
+\definecolor{OarkRule}{HTML}{9FAFAB}
+\definecolor{OarkShade}{HTML}{EEF3F1}
+
+\usepackage{microtype}
+\usepackage{enumitem}
+\setlist{nosep,leftmargin=2em}
+\setlist[itemize]{topsep=3pt,itemsep=2pt}
+\setlist[enumerate]{topsep=3pt,itemsep=2pt}
+
+\usepackage{scrlayer-scrpage}
+\clearpairofpagestyles
+\ihead{\sffamily\scriptsize Oark Limited IP package}
+\ohead{\sffamily\scriptsize 23 July 2026}
+\ifoot{\sffamily\scriptsize Confidential execution draft}
+\ofoot{\sffamily\scriptsize Page \pagemark}
+\setkomafont{pageheadfoot}{\color{gray}}
+\pagestyle{scrheadings}
+
+\setkomafont{section}{\sffamily\bfseries\color{OarkGreen}}
+\setkomafont{subsection}{\sffamily\bfseries\color{OarkGreen}}
+\setkomafont{subsubsection}{\sffamily\bfseries\color{OarkGreen}}
+\setkomafont{paragraph}{\sffamily\bfseries\color{OarkGreen}}
+\RedeclareSectionCommand[beforeskip=1.25\baselineskip,afterskip=.45\baselineskip]{section}
+\RedeclareSectionCommand[beforeskip=1.0\baselineskip,afterskip=.35\baselineskip]{subsection}
+\RedeclareSectionCommand[beforeskip=.8\baselineskip,afterskip=.25\baselineskip]{subsubsection}
+
+\usepackage{needspace}
+\pretocmd{\section}{\Needspace{6\baselineskip}}{}{}
+\pretocmd{\subsection}{\Needspace{5\baselineskip}}{}{}
+\pretocmd{\subsubsection}{\Needspace{4\baselineskip}}{}{}
+
+\usepackage{longtable,booktabs,array,ragged2e}
+\AtBeginEnvironment{longtable}{\small\rowcolors{2}{OarkShade}{white}}
+\setlength{\LTpre}{7pt}
+\setlength{\LTpost}{9pt}
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.18}
+
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,breakanywhere,commandchars=\\\{\}}
+\AtBeginEnvironment{quote}{\color{OarkGold}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt plus 1pt minus 1pt}
+\raggedbottom
