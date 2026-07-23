@@ -1,8 +1,8 @@
 \usepackage[table]{xcolor}
-\definecolor{OarkGreen}{HTML}{1F5A4E}
-\definecolor{OarkGold}{HTML}{9B671D}
-\definecolor{OarkRule}{HTML}{9FAFAB}
-\definecolor{OarkShade}{HTML}{EEF3F1}
+\definecolor{OarkGreen}{HTML}{933131}
+\definecolor{OarkGold}{HTML}{7C2738}
+\definecolor{OarkRule}{HTML}{D9C5C8}
+\definecolor{OarkShade}{HTML}{F7ECEC}
 
 \usepackage{microtype}
 \usepackage{enumitem}
@@ -11,12 +11,23 @@
 \setlist[enumerate]{topsep=3pt,itemsep=2pt}
 
 \usepackage{scrlayer-scrpage}
+\usepackage{tikz}
+\newcommand{\oarkmark}{%
+	\begin{tikzpicture}[x=.012mm,y=.012mm,baseline=-.55ex]
+		\draw[OarkGreen,line width=.34mm,line cap=round,line join=round] (300,300) circle (232);
+		\draw[OarkGreen,line width=.41mm,line cap=round,line join=round] (214,206)--(126,300)--(214,394);
+		\draw[OarkGreen,line width=.41mm,line cap=round,line join=round] (386,206)--(474,300)--(386,394);
+		\draw[OarkGreen,line width=.41mm,line cap=round] (266,404)--(334,196);
+	\end{tikzpicture}%
+}
 \clearpairofpagestyles
-\ihead{\sffamily\scriptsize Oark Limited IP package}
-\ohead{\sffamily\scriptsize 23 July 2026}
-\ifoot{\sffamily\scriptsize Confidential execution draft}
+\ihead{\oarkmark\hspace{1.7mm}{\sffamily\bfseries\color{OarkGreen}OARK LIMITED}}
+\ohead{\sffamily\scriptsize\begin{tabular}{r}oarklimited.com\\info@oarklimited.com\end{tabular}}
+\ifoot{\sffamily\scriptsize Company No. PVT-AAADAM3}
 \ofoot{\sffamily\scriptsize Page \pagemark}
-\setkomafont{pageheadfoot}{\color{gray}}
+\setkomafont{pageheadfoot}{\color{OarkGreen}}
+\setheadsepline{.45pt}[\color{OarkRule}]
+\setfootsepline{.35pt}[\color{OarkRule}]
 \pagestyle{scrheadings}
 
 \setkomafont{section}{\sffamily\bfseries\color{OarkGreen}}

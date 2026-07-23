@@ -1,1 +1,8 @@
 /.quarto/
+/_output/
+/.signing-venv/
+*.p12
+*.pfx
+*.key
+*.pem
+*.pass
