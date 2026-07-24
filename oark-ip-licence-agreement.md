@@ -26,7 +26,7 @@ D. Before the Effective Date, the Licensor allowed Oark to operate or refer to t
 
 E. Oark wishes to commercialise each Product as a separate business line. The Licensor is willing to grant Oark a worldwide, non-exclusive, restricted, and terminable licence while retaining all ownership and freedom to use, improve, assign, sell, or license the Owner Assets to any other person.
 
-F. Oark expects to retain 85% of Adjusted Gross Receipts before its operating costs while avoiding the cost of acquiring the Owner Assets and while the Licensor personally funds and undertakes development. Subject to proper accounting and independent advice where appropriate, the Parties consider that commercial structure beneficial to Oark.
+F. The Licensor is willing to grant the Licence without a royalty or other licence fee. Oark avoids the cost of acquiring the Owner Assets, may retain all Product revenue subject to its own costs and liabilities, and assumes responsibility for commercial operation. The Parties consider that structure beneficial to Oark and administratively proportionate for a company with one member and one director.
 
 G. The Parties intend this Agreement to distinguish property owned by the Licensor from Oark's own contracts, money, receivables, business records, personal data, merchant accounts, and limited contractual licence rights. They do not intend to defeat creditors, evade tax, mislead customers, or contract out of mandatory law.
 
@@ -37,15 +37,6 @@ The Parties agree as follows.
 ### 1.1 Definitions
 
 In this Agreement:
-
-**Adjusted Gross Receipts** means all amounts in money or money's worth actually received, credited, set off, or retained by or for Oark or a person acting for Oark from exploitation of a Product, including licence fees, sales, subscriptions, support, maintenance, sponsorship, advertising, affiliate income, data products, consulting bundled with a Product, and any other Product-derived revenue, less only:
-
-1. VAT, sales tax, or a substantially similar transaction tax separately charged to the customer and actually remitted to the relevant authority;
-2. bona fide refunds actually paid to customers;
-3. bona fide payment reversals and chargebacks; and
-4. fees charged by an independent payment processor on the relevant transaction.
-
-Adjusted Gross Receipts may not be reduced by development costs, salaries, director remuneration, commissions other than independent payment-processing fees, hosting, cloud charges, marketing, professional fees, bad-debt provisions, depreciation, income tax, overhead, reserves, related-party charges, or any other operating cost. A non-cash transaction is included at its fair market value. Revenue from a bundle is allocated to the Product on a reasonable and consistently applied stand-alone selling-price basis.
 
 **Affiliate** means a person that directly or indirectly controls, is controlled by, or is under common control with a Party. Control includes the direct or indirect power to direct management or policies, whether through ownership, contract, or otherwise.
 
@@ -142,9 +133,9 @@ Oark acknowledges and agrees that, as between the Parties:
 For purposes of section 31(1) of the Copyright Act, 2001, and any analogous rule:
 
 1. the Parties expressly agree that no copyright or other right in an Owner Asset is or will be deemed transferred to Oark because of commission, employment, payment, direction, office, or use;
-2. the Licensor's creation of an Improvement is undertaken independently and not in the course of employment by, or under a contract of service with, Oark;
-3. Oark does not commission the Licensor to create an Improvement unless a later written agreement expressly says otherwise and is separately approved; and
-4. all economic rights in an Improvement created by the Licensor remain with the Licensor from creation.
+2. an Improvement created by the Licensor remains his personal property whether he creates it independently or while acting as Oark's director, employee, officer, consultant, or contractor, and whether he uses personal or Oark-provided time, equipment, accounts, facilities, or funds;
+3. any salary, director's fee, reimbursement, benefit, instruction, commission, or other payment by Oark does not transfer an Improvement or alter this express agreement unless a later written assignment identifies the affected right and expressly overrides this clause; and
+4. all economic rights in an Improvement created by the Licensor remain with the Licensor from creation, and this clause is an agreement excluding or limiting any deemed transfer to Oark under section 31(1) of the Copyright Act, 2001.
 
 ### 3.3 Moral rights
 
@@ -156,11 +147,13 @@ All goodwill arising from Oark's authorised use of a Licensed Mark accrues exclu
 
 ### 3.5 No estoppel from prior statements
 
-Oark withdraws, as between the Parties, any prior statement that Oark **owns** a Product or Owner Asset. Oark shall amend affected public-facing notices within ten Business Days after the Effective Date to state in substance:
+Oark withdraws, as between the Parties, any prior statement that Oark **owns** a Product or Owner Asset. Oark shall amend affected public-facing notices at the next practicable update and no later than the next material Product release or 90 days after the Effective Date, whichever occurs first, to state in substance:
 
-> "[Product] is operated by Oark Limited under licence from Charles Njogu Kabui. Copyright in original proprietary components is retained by Charles Njogu Kabui. Third-party components remain subject to their respective licences."
+> "[Product] is operated by Oark Limited under licence from Charles Njogu Kabui. Copyright in original proprietary components is retained by Charles Njogu Kabui. Third-party components and copies validly released under existing GPLv3, MIT, or other licences remain subject to those terms."
 
 The correction of an ownership statement does not alter Oark's role as supplier, merchant, contracting party, or data controller where Oark in fact performs that role.
+
+At the next material Blober release, Oark shall identify Charles Njogu Kabui rather than "Blober Team" as the author of original Blober material in current package metadata. Oark shall preserve historical release evidence and shall not imply that an existing valid MIT grant has been revoked.
 
 ### 3.6 Comprehensive reservation
 
@@ -174,12 +167,12 @@ Oark irrevocably disclaims and quitclaims in favour of the Licensor every claim 
 
 If, contrary to clauses 3.1 to 3.7, a court, tribunal, registrar, or other competent authority determines that any Intellectual Property Right in material identified as an Owner Asset vested in Oark before the Effective Date, Oark assigns that right to the Licensor with full title guarantee, to the fullest extent legally assignable, together with rights of action for past infringement.
 
-The substantial composite consideration for that contingent assignment is:
+The composite consideration for that contingent assignment is:
 
 1. the historic royalty release in clause 2.3;
-2. the worldwide commercial Licence granted to Oark;
-3. Oark's right to retain 85% of Adjusted Gross Receipts before its operating costs;
-4. the Licensor's commitment to fund and undertake personal development at no development charge to Oark unless separately agreed; and
+2. the worldwide royalty-free commercial Licence granted to Oark;
+3. Oark's right to retain all Product revenue subject to its own costs and liabilities;
+4. Oark's assumption of customer, tax, support, data-protection, and operating responsibilities; and
 5. Oark's avoidance of an acquisition price for the Owner Assets.
 
 The Parties record that the contingent assignment is precautionary, that they believe Oark presently owns no such right, and that Oark enters the overall arrangement in good faith for carrying on its business and on reasonable grounds that it benefits Oark.
@@ -211,7 +204,7 @@ Subject to Oark's continuing compliance, the Licensor grants Oark a non-exclusiv
 
 ### 4.2 Separate Products and accounting
 
-The Licence applies to Blober and ToKnow separately. Oark shall maintain separate revenue and royalty records for each. A breach affecting one Product does not automatically expand Oark's rights in the other, and the Licensor may suspend or terminate rights for one Product without terminating the other where the notice expressly says so.
+The Licence applies to Blober and ToKnow separately. Oark need not prepare a separate royalty account, statement, or invoice for either Product. It shall keep only the sales and other records required by applicable law or reasonably needed to operate the Products. A breach affecting one Product does not automatically expand Oark's rights in the other, and the Licensor may suspend or terminate rights for one Product without terminating the other where the notice expressly says so.
 
 ### 4.3 End-User sublicences
 
@@ -222,9 +215,9 @@ Oark may grant an End User a non-exclusive, non-transferable right to use an aut
 3. do not grant Source Code, ownership, redistribution, resale, white-label, OEM, service-bureau, or sublicensing rights;
 4. preserve Third-Party Materials notices and terms;
 5. do not promise a right or service Oark is unable lawfully to provide; and
-6. have been approved in writing by the Licensor as to treatment of Owner Assets.
+6. do not claim that Oark or the End User owns the Owner Assets and do not restrict the Licensor's reserved rights.
 
-Oark may not appoint a distributor, reseller, OEM partner, white-label partner, or sub-licensor without a separate written approval signed by the Licensor.
+No separate Licensor approval is required for ordinary customer-term, price, refund, privacy, or support updates that remain within this clause. Oark may not appoint a distributor, reseller, OEM partner, white-label partner, or sub-licensor, or grant Source Code or redistribution rights, without a separate written approval signed by the Licensor.
 
 ### 4.4 No exclusivity and no protected market
 
@@ -273,7 +266,7 @@ This Agreement binds the Parties, not a registrar, cloud provider, source-contro
 
 ### 5.4 Company infrastructure and funds
 
-Oark owns or controls its Company Materials. In particular, money collected into an Oark bank or merchant account remains Oark's money subject to Oark's customer, tax, payment-processor, creditor, and contractual obligations, except for an accrued royalty debt payable under this Agreement.
+Oark owns or controls its Company Materials. In particular, money collected into an Oark bank or merchant account remains Oark's money subject to Oark's customer, tax, payment-processor, creditor, and contractual obligations.
 
 ### 5.5 No charge or encumbrance
 
@@ -296,9 +289,9 @@ Oark shall not, and shall not permit another person to:
 
 ## 7. IMPROVEMENTS, CONTRIBUTORS, AND DEVELOPMENT FUNDING
 
-### 7.1 Licensor-funded development
+### 7.1 Development by the Licensor
 
-Unless the Parties sign a separate written development agreement, the Licensor controls, funds, and undertakes development personally. Oark has no right to direct the time, place, manner, tools, or content of that development and incurs no development fee.
+The Licensor may continue developing the Products personally or while performing duties for Oark. Oark may pay salary, director remuneration, reimbursements, or Product operating and development costs only under a separate lawful approval or arrangement. No such work or payment changes ownership under clause 3.2 unless the Parties execute an express written assignment of identified rights.
 
 ### 7.2 No authority to create Company-owned Improvements
 
@@ -350,71 +343,35 @@ Subject to Third-Party Materials terms and Existing Downstream Rights, the Licen
 
 The dependency review described in this Agreement is not an exhaustive legal clearance. Oark shall not tell a customer, investor, regulator, or other person that all packages, integrations, datasets, captured API responses, or content have been conclusively cleared unless competent counsel has verified that statement.
 
-## 9. ROYALTIES, TAX, INVOICING, AND ACCOUNTS
+## 9. ROYALTY-FREE LICENCE, TAX, AND RECORDS
 
-### 9.1 Royalty
+### 9.1 No royalty or licence fee
 
-For each calendar month during the Term, Oark shall pay the Licensor a royalty equal to **15% of Adjusted Gross Receipts** for that month. The royalty is calculated separately for Blober and ToKnow.
+The Licence is granted without a royalty, minimum payment, or other licence fee. No amount becomes payable merely because Oark receives Product revenue, and the Licensor is not entitled to a share of that revenue under this Agreement.
 
-### 9.2 Monthly statement
+### 9.2 No recurring licence administration
 
-Within ten Business Days after each month, Oark shall give the Licensor a statement for each Product showing:
+Solely for this Agreement, neither Party is required to prepare or issue:
 
-1. each revenue source and currency;
-2. gross receipts;
-3. each permitted deduction with supporting detail;
-4. exchange rates and their source;
-5. Adjusted Gross Receipts;
-6. the 15% royalty;
-7. VAT, if any;
-8. withholding tax deducted;
-9. the net amount payable; and
-10. customer count, refunds, chargebacks, and material non-cash transactions.
+1. a monthly or nil Product statement;
+2. a royalty calculation or reconciliation;
+3. a licence invoice or eTIMS invoice from the Licensor to Oark;
+4. a royalty withholding-tax return or certificate; or
+5. a royalty audit.
 
-A nil statement is required where no revenue was earned.
+This clause does not remove a record, invoice, return, or payment independently required by tax, company, consumer, employment, or another applicable law.
 
-### 9.3 Currency conversion
+### 9.3 No tax representation
 
-The royalty is calculated and paid in Kenya shillings. A receipt settled into Oark's account in Kenya shillings uses the payment processor's actual settlement conversion. Otherwise, Oark shall use the Central Bank of Kenya published closing rate for the receipt date, or the next available rate, consistently applied.
+The Parties do not represent that a royalty-free related-party licence produces a particular tax result, establishes an arm's-length price, or prevents an adjustment under sections 18A or 23 of the Income Tax Act or another mandatory rule. If mandatory law requires a payment, withholding, invoice, valuation, or adjustment, the Parties shall comply prospectively and document it separately; no tax amount is created merely by this clause.
 
-### 9.4 Invoice and payment
+### 9.4 Each Party's taxes
 
-After receiving the monthly statement, the Licensor shall issue an invoice through eTIMS or another system then lawfully required, unless a valid statutory exclusion or exemption applies. Oark shall pay the undisputed amount within five Business Days after receiving a compliant invoice and, in all events, no later than twenty Business Days after month end unless delayed solely by the Licensor's failure to provide a legally required invoice.
+Oark is responsible for taxes, duties, levies, invoices, returns, and records arising from its sales, payroll, dividends, payments, and commercial operation. The Licensor is responsible for his own tax obligations. Nothing in this Agreement authorises either Party to treat Company money as the Licensor's personal money or to disguise salary, a dividend, a benefit, or another payment as a royalty-free licence transaction.
 
-### 9.5 Withholding tax
+### 9.5 Records
 
-Oark shall deduct withholding tax at the rate required by law. As at the execution draft date, the resident royalty rate is 5% of the gross royalty payment under section 35(3)(g) and the Third Schedule to the Income Tax Act. Oark shall:
-
-1. remit the deduction to the Kenya Revenue Authority within five working days after deduction;
-2. file the required return;
-3. cause the withholding certificate to be issued to the Licensor; and
-4. give the Licensor payment and filing evidence promptly.
-
-Withholding tax is not an additional deduction in calculating Adjusted Gross Receipts. It is a credit or advance tax for the Licensor except where law provides otherwise.
-
-### 9.6 VAT and other taxes
-
-The royalty is exclusive of VAT. The Licensor shall charge VAT only if registered or legally required. Each Party bears its own income tax. Oark bears taxes, duties, penalties, and interest arising from its sales, customer contracts, payroll, payment processing, failure to withhold, or failure to remit, except to the extent directly caused by the Licensor's false tax information.
-
-### 9.7 No domestic section 18(3) representation
-
-The Parties do not state that section 18(3) of the Income Tax Act directly governs this resident-to-resident arrangement. They shall nevertheless maintain contemporaneous records showing the commercial rationale, actual services and rights, solvency, revenue, pricing, and payments, and shall comply with any transfer-pricing or related-party rule that later becomes applicable.
-
-### 9.8 Records
-
-Oark shall keep complete Product, sales, customer-contract, processor, refund, tax, and royalty records for at least seven years or any longer period required by law. Records shall distinguish Owner Assets from Company Materials and each Product from the other.
-
-### 9.9 Audit
-
-On at least five Business Days' notice, no more than twice in a calendar year unless a discrepancy or breach is found, the Licensor or an independent accountant bound by confidentiality may inspect records reasonably necessary to verify royalties. If an underpayment exceeds 5% for the audited period, Oark shall promptly pay the shortfall, reasonable audit cost, and interest.
-
-### 9.10 Late payment
-
-An overdue amount bears simple interest from its due date at the Central Bank Rate plus 4% per year, or the highest lower lawful rate, without limiting other remedies.
-
-### 9.11 No set-off
-
-Oark may not set off a royalty against another claim except a deduction required by tax law or an amount finally determined by an arbitral award or court order.
+Each Party shall keep this Agreement and the evidence reasonably necessary to identify Owner Assets and Company Materials. Oark shall keep its ordinary business and tax records for the period required by law. This Agreement creates no additional retention period, separate Product ledger, or recurring internal report.
 
 ## 10. CUSTOMER CONTRACTS AND CONSUMER RIGHTS
 
@@ -442,7 +399,7 @@ After termination, Oark has a limited, non-exclusive, non-transferable run-off l
 2. permits no Source Code disclosure;
 3. permits only the minimum Licensed Mark use needed to identify existing support;
 4. ends for an End User when that End User's valid right ends; and
-5. is subject to royalty payment on any post-termination amount Oark receives from an existing customer.
+5. remains subject to Oark's customer, tax, and record-keeping obligations.
 
 The Licensor may, but is not required to, assume a customer contract. Assumption requires a separate lawful novation or consent and compliance with data-protection law.
 
@@ -491,6 +448,8 @@ The Licensor warrants, as at signing and to his knowledge after reasonable inqui
 
 The warranty is not a representation that every Third-Party Material, data source, API method, AI-assisted output, or integration has received a complete legal clearance.
 
+The warranty is expressly subject to the unresolved Microsoft-employment qualification in Schedule 2. The Licensor shall not sign this Agreement until he has reviewed the applicable employment IP and outside-work terms and can truthfully give the warranties above. This Agreement does not determine or waive a superior right held by Microsoft or another non-party.
+
 ### 12.2 Oark warranties and acknowledgments
 
 Oark warrants and acknowledges, as at signing, that:
@@ -501,13 +460,13 @@ Oark warrants and acknowledges, as at signing, that:
 4. it is able to pay its debts as they fall due, has no undisclosed Insolvency Event, and is not entering this Agreement to put assets beyond creditors;
 5. it has no employee, secured creditor, investor, or contractor with a disclosed claim to an Owner Asset;
 6. it has had the opportunity to obtain independent legal, tax, insolvency, accounting, and valuation advice;
-7. it considers in good faith that the Licence, historic release, 85% revenue retention, continued development, and avoidance of an acquisition price benefit Oark;
+7. it considers in good faith that the royalty-free Licence, historic release, right to retain Product revenue, continued access to Improvements, and avoidance of an acquisition price benefit Oark;
 8. no representation has been made that this Agreement can bind a creditor, court, regulator, insolvency office-holder, customer, or infrastructure provider that is not a Party; and
 9. no wording can prevent a competent authority from determining the true owner of an asset or exercising mandatory statutory powers.
 
 ### 12.3 Ongoing solvency and conflict record
 
-Oark shall not cause a royalty payment, assignment, access change, or other transfer under this Agreement at a time when it is unable to pay debts or would become unable to pay debts as a consequence without first obtaining specific Kenyan insolvency advice and any required approval.
+Oark shall not cause an assignment, access change, or other transfer under this Agreement at a time when it is unable to pay debts or would become unable to pay debts as a consequence without first obtaining specific Kenyan insolvency advice and any required approval.
 
 ### 12.4 No other warranties
 
@@ -569,7 +528,7 @@ On termination for a Product, Oark shall immediately cease all use except the ru
 2. remove statements implying current authority or ownership;
 3. disable Oark personnel's access to Confidential Owner Material and Owner Infrastructure;
 4. return or securely destroy Confidential Owner Material in its possession, subject to one encrypted legal archive copy retained only where required by law;
-5. provide a final royalty statement and pay all accrued amounts;
+5. pay any non-royalty amount that has separately accrued under this Agreement;
 6. provide an access, credential, repository, build, release, domain, and infrastructure inventory;
 7. preserve Company Materials and customer records as required by law; and
 8. certify compliance in writing within ten Business Days.
@@ -584,7 +543,7 @@ No customer contract, receivable, bank balance, merchant account, Personal Data,
 
 ### 14.4 Survival
 
-Clauses concerning ownership, accrued payment, audit, confidentiality, Third-Party Materials, customers, Personal Data, indemnity, liability, dispute resolution, and provisions intended by nature to survive remain in force.
+Clauses concerning ownership, confidentiality, Third-Party Materials, customers, Personal Data, indemnity, liability, dispute resolution, and provisions intended by nature to survive remain in force.
 
 ## 15. INSOLVENCY AND CREDITOR POSITION
 
@@ -634,7 +593,7 @@ The indemnified Party shall give prompt notice, allow the indemnifying Party rea
 
 ### 16.4 Licensor liability cap
 
-Except for the Licensor's fraud, wilful misconduct, or liability that law does not allow to be limited, the Licensor's aggregate liability to Oark arising from a Product in any twelve-month period shall not exceed royalties actually received for that Product in that period.
+Except for the Licensor's fraud, wilful misconduct, or liability that law does not allow to be limited, the Licensor's aggregate liability to Oark arising from both Products in any twelve-month period shall not exceed KES 100,000.
 
 ### 16.5 Excluded loss
 
@@ -712,9 +671,9 @@ Contractual notices shall be sent to the addresses and emails in the Parties sec
 
 For arbitration communications, section 9 of the Arbitration Act, 1995, applies. Service of court process is governed by applicable procedural law and is not conclusively effected by this clause.
 
-### 19.5 Emailing the executed Agreement
+### 19.5 Record copy and optional electronic evidence
 
-After execution, the Licensor shall send the signed PDF from <mckabue@gmail.com> to <oarklimited@gmail.com>, and Oark shall reply from <oarklimited@gmail.com> acknowledging receipt and acceptance for its records. That exchange is additional evidence of delivery and acknowledgment. It does not replace signatures, witness attestation, corporate approval, tax compliance, or stamp duty.
+Oark shall retain a complete executed copy with its statutory records. The Parties may also preserve a hash, native email, timestamp, or document-signing validation report, but this Agreement requires no email exchange between accounts controlled by the same person. Optional electronic evidence does not replace signatures, witness attestation, corporate approval, tax compliance, or stamp duty.
 
 ### 19.6 Entire agreement and non-reliance
 
@@ -734,7 +693,7 @@ Nothing creates a partnership, joint venture, employment, franchise, fiduciary r
 
 ### 19.10 Costs
 
-Oark shall pay reasonable costs of corporate approvals, KRA stamp-duty adjudication and stamping, eTIMS implementation, royalty accounting, and compliance caused by its commercial operation. Each Party pays for its own independent legal and tax advice.
+Oark shall pay reasonable costs of corporate approvals, KRA stamp-duty adjudication and stamping, and compliance caused by its commercial operation. Each Party pays for its own independent legal and tax advice.
 
 ### 19.11 Counterparts and electronic records
 
@@ -757,7 +716,7 @@ Except for rights expressly preserved for an End User under clause 10, a person 
 3. Creation began: approximately 20 September 2025.
 4. First identified repository commit: `ab9d596c51ec72c057c917c18e7bf2983a8357fe`, authored by Kabue Charles using <mckabue@gmail.com> on 20 September 2025.
 5. Repository reviewed: `https://github.com/blober-io/blober.io`, controlled through the Licensor's personal GitHub identity `https://github.com/mckabue`; the repository returned 404 to a logged-out reviewer on 23 July 2026 and appeared non-public.
-6. Reviewed repository state: commit `0ab02aa1b0629cbe326c1ea7bbd280088acd57cb` dated 23 July 2026, subject to confirmation in the signed evidence manifest.
+6. Reviewed repository state: commit `0ab02aa1b0629cbe326c1ea7bbd280088acd57cb` dated 23 July 2026, subject to confirmation from the repository or optional evidence record if later relied on.
 7. The Git author audit identified only Charles under spelling variants Kabue/Kabui as human author. Some commits identify GitHub Copilot as co-author; AI-assisted material is governed by clause 7.5.
 
 ### 2. Original Owner Assets
@@ -798,9 +757,9 @@ The following are not exclusively owned proprietary Blober assets:
 1. Product: ToKnow / toknow.ai.
 2. Function: a publishing and research website for articles, analysis, data, software demonstrations, and related content. It is separate from Blober.
 3. Creation began: approximately 4 May 2024.
-4. First identified commit: `4f8bd2f6e7d50c5a4ff564ead857695b13e3b1af`, authored as Charles Kabui using <charleskabui@microsoft.com> on 4 May 2024. The Licensor represents that the email address was an author identifier only and that the work was created on personal time and resources. Independent review of the applicable employment IP terms remains strongly recommended.
+4. First identified commit: `4f8bd2f6e7d50c5a4ff564ead857695b13e3b1af`, authored as Charles Kabui using <charleskabui@microsoft.com> on 4 May 2024. The Licensor represents that the email address was an author identifier only and that the work was created on personal time and resources. Review of the applicable employment IP and outside-work terms is required before execution.
 5. Source repository reviewed: `https://github.com/ToKnow-ai/ToKnow.ai`; it returned 404 to a logged-out reviewer on 23 July 2026 and appeared non-public.
-6. Reviewed repository state: commit `86332660347a7094185fdd8bfb3b99be5137b934` dated 23 July 2026, subject to confirmation in the signed evidence manifest.
+6. Reviewed repository state: commit `86332660347a7094185fdd8bfb3b99be5137b934` dated 23 July 2026, subject to confirmation from the repository or optional evidence record if later relied on.
 7. Live site reviewed: `https://toknow.ai/`.
 
 ### 2. Original Owner Assets
@@ -842,7 +801,7 @@ The following are not exclusively owned proprietary ToKnow assets:
 | `toknow.ai` domain | Paid using Licensor's personal credit card; held in a Cloudflare account using <oarklimited@gmail.com> | Licensor-owned; Oark is custodian only |
 | GitHub identity `mckabue` | Personal account using <mckabue@gmail.com> | Licensor-owned |
 | GitHub organisations/repositories for Blober and ToKnow | Controlled through the Licensor's personal GitHub identity, subject to provider records | Licensor-owned original repository rights; third-party material excluded |
-| Product source and release-signing keys personally generated and controlled by Licensor | To be itemised in the signed evidence manifest without exposing secrets | Licensor-owned |
+| Product source and release-signing keys personally generated and controlled by Licensor | May be itemised by fingerprint in the optional evidence record without exposing secrets | Licensor-owned |
 
 ### 2. Company Materials and infrastructure
 
@@ -855,9 +814,9 @@ The following remain Oark Company Materials unless a separate written agreement 
 5. Oark tax, eTIMS, accounting, DUNS, statutory, and regulatory records; and
 6. Personal Data for which Oark is controller.
 
-### 3. Evidence manifest
+### 3. Evidence record
 
-Within ten Business Days after signing, the Parties shall sign a confidential evidence manifest listing, without publishing secrets:
+The Schedules and existing source records are the initial ownership evidence. The Licensor may maintain a confidential evidence record, without publishing secrets, containing any of the following when reasonably useful for a dispute, registration, financing, sale, or provider change:
 
 1. domain registrar records and payment evidence;
 2. repository URLs, visibility, administrators, first commits, and current commit hashes;
@@ -867,6 +826,8 @@ Within ten Business Days after signing, the Parties shall sign a confidential ev
 6. material third-party licences;
 7. KECOBO and KIPI applications or registrations; and
 8. the location of immutable evidence archives.
+
+No separate signed manifest, fixed completion deadline, or recurring update is required solely by this Agreement.
 
 ## SCHEDULE 4 - EXISTING DOWNSTREAM AND THIRD-PARTY RIGHTS
 

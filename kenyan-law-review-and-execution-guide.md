@@ -2,13 +2,13 @@
 
 ## Oark Limited / Blober / ToKnow intellectual-property structure
 
-**Review date: 23 July 2026**
+**Review date: 24 July 2026**
 
 **Proposed commercial start: 1 August 2026**
 
 ## 1. Status and limits of this review
 
-This memorandum explains the drafting package against the Kenyan statutes, regulations, corporate records, repositories, and facts reviewed as at 23 July 2026. It is a legal-information and drafting review, not a signed Kenyan advocate's legal opinion, tax opinion, insolvency opinion, valuation, or guarantee of outcome.
+This memorandum explains the drafting package against the Kenyan statutes, regulations, corporate records, repositories, and facts reviewed as at 24 July 2026. It is legal information and a drafting review, not a signed Kenyan advocate's legal opinion, tax opinion, insolvency opinion, valuation, or guarantee of outcome.
 
 No private agreement can be made literally "airtight" or eliminate every loophole. In particular, a contract cannot:
 
@@ -25,7 +25,8 @@ The accompanying drafts implement that structure:
 
 1. `oark-ip-licence-agreement.md` - the controlling ownership confirmation and non-exclusive commercial licence;
 2. `oark-corporate-approval-record.md` - the sole-member authorization, conflict disclosure, Company-benefit and solvency record, and sole-director execution record; and
-3. this review and execution guide.
+3. `oark-operating-and-owner-payment-policy.md` - the low-administration operating, tax, IP, and owner-payment policy; and
+4. this review and execution guide.
 
 Before signing, a Kenyan advocate should review the final package together with Oark's current filed articles, current official company search, current registers, Microsoft employment terms, tax records, and current financial position.
 
@@ -37,7 +38,7 @@ If the facts are true and consistently documented, the structure can strongly su
 
 1. Charles Njogu Kabui personally owns his original copyright and other protectable original material in Blober and ToKnow.
 2. Oark receives only a worldwide, non-exclusive, restricted, and terminable contractual licence.
-3. Oark may generate revenue and retain 85% of Adjusted Gross Receipts before its operating costs while paying Charles a 15% royalty.
+3. Oark receives a royalty-free licence, may generate revenue, and retains all Product revenue subject to its own costs and liabilities. The Licence creates no monthly royalty statement, personal invoice, or royalty withholding workflow.
 4. Oark's creditors ordinarily cannot realise property that Oark never owned, although ownership may be disputed and provider-level control may be frozen while a dispute is resolved.
 5. Charles remains free to compete, use the Products himself, establish another company, and license or assign his rights, subject to mandatory duties, existing customer rights, existing open-source rights, and superior third-party rights.
 6. Existing Oark customer contracts and Personal Data do not automatically follow Charles or a replacement company. They require separate lawful treatment.
@@ -55,7 +56,7 @@ The package cannot truthfully promise that Charles can always "just take everyth
 
 ### 2.3 Overall assessment
 
-Personal ownership is **plausible and supported by significant contemporaneous evidence**, particularly the Git history and the stated absence of Oark funding, employment, commissioning, or contributors. It is **not fully confirmed** until the Microsoft employment documents and current corporate records are reviewed and the public/open-source licence history is reconciled.
+Personal ownership of the existing work is **plausible and supported by significant contemporaneous evidence**, particularly the Git history and the stated historic absence of Oark funding, employment, commissioning, or contributors. It is **not fully confirmed** until the Microsoft employment documents and current corporate records are reviewed and the public/open-source licence history is reconciled. For future work done while Charles works inside Oark, the draft relies on an express agreement excluding or limiting deemed transfer under section 31 of the Copyright Act rather than pretending the work is always done outside Oark.
 
 ## 3. Documents and evidence reviewed
 
@@ -120,12 +121,16 @@ The drafts rely on Charles's representations that:
 9. Oark has received Blober payments into its bank or merchant accounts since January 2026;
 10. ToKnow has not produced income;
 11. existing Blober sales are approximately 60 orders at about USD 49 each, with more expected;
-12. the Parties intend no retroactive royalty before 1 August 2026;
-13. Charles will personally fund and control future development;
+12. the Parties intend no royalty before or after 1 August 2026 under the IP Licence;
+13. Charles may undertake future development personally or while performing duties for Oark, and may use personal or Oark-provided time, equipment, accounts, facilities, or funds;
 14. the Licence is worldwide;
-15. Oark will pay Charles 15% of Adjusted Gross Receipts and retain 85% before its costs;
+15. Oark will pay no royalty or licence fee and will retain all Product revenue subject to its costs and liabilities;
 16. existing customer licences survive termination but no new sales are permitted in run-off; and
-17. future original releases are intended to be proprietary, subject to existing and third-party licence rights.
+17. future original releases are intended to be proprietary, subject to existing and third-party licence rights;
+18. from 1 August 2026, Oark is intended to be Charles's primary working occupation, but no salary, director's fee, or contract of service starts merely because the policy is adopted;
+19. current gross Product receipts are approximately KES 150,000 per month, subject to verification from processor and bank records;
+20. Oark intends to use TOT only if its actual income qualifies and its iTax registration is effective; and
+21. while he is not salaried, Charles intends to pay SHA personally under the non-salaried household rules.
 
 If any assumption is inaccurate, the final agreement and corporate approval must be revised before signing.
 
@@ -141,7 +146,7 @@ This supports Charles's original code ownership, but copyright protects expressi
 
 Section 31 provides that copyright initially vests in the author, but a commissioned work or a work made in the course of employment under a contract of service is deemed transferred to the commissioner or employer **subject to an agreement excluding or limiting that transfer**.
 
-The draft therefore expressly states that Oark did not commission or employ Charles to create the Products and excludes any deemed transfer to Oark. That is useful prospectively and corroborates the stated historic facts.
+The draft therefore distinguishes two periods. It records that Oark did not historically commission or employ Charles to create the existing Products. Prospectively, it expressly provides that Improvements remain Charles's personal property even when created while he acts as Oark's director, employee, officer, consultant, or contractor or uses Oark-provided time, equipment, accounts, facilities, or funds. That prospective wording is intended to be the agreement excluding or limiting deemed transfer permitted by section 31.
 
 It does not bind Microsoft. Whether Microsoft has a claim depends on the actual employment agreement, policies, invention disclosures, role, subject matter, use of resources, and applicable law. The recollection that moonshots were allowed is helpful but not a substitute for the documents.
 
@@ -191,7 +196,7 @@ The strongest action remains moving registrant, root account, recovery, MFA, bil
 
 ### 6.3 Source-control organisations and keys
 
-Record the GitHub organisation owner, recovery methods, billing, branch protections, release keys, signing-key fingerprints, and current commit hashes in the confidential evidence manifest. Do not put private keys or recovery codes in the agreement.
+When reasonably useful for a registration, dispute, financing, sale, or provider change, record the GitHub organisation owner, recovery methods, billing, branch protections, release keys, signing-key fingerprints, and current commit hashes in the confidential evidence record. Do not put private keys or recovery codes in the agreement.
 
 ## 7. Company-law analysis
 
@@ -199,7 +204,7 @@ Record the GitHub organisation owner, recovery methods, billing, branch protecti
 
 Sections 142 to 146 of the [Companies Act, 2015](https://new.kenyalaw.org/akn/ke/act/2015/17/eng@2024-12-27) require a director to act within powers, promote Company success, exercise independent judgment and reasonable care, and avoid conflicts. Section 151 requires declaration of the nature and extent of an interest before the transaction. Breach can make an arrangement voidable and expose a director to accounting, indemnity, fine, or disqualification consequences.
 
-Charles is on both sides and personally receives the royalty and ownership protections. This is a material direct conflict, not a formality.
+Charles is on both sides and personally receives ownership protections, while the Operating Policy may permit genuine expense reimbursement, repayment of a verified director-loan credit balance, and dividends in his separate capacity as sole member. This is a material direct conflict, not a formality, even though the Company pays no royalty.
 
 ### 7.2 Model articles and the interested sole director
 
@@ -245,7 +250,7 @@ One signature labelled with two capacities is avoidable evidence risk. Ordinary 
 
 ### 7.6 Records
 
-Sections 210 and 317 to 319 require director and member decision records and retention. The model articles additionally require sole-director written records for ten years. Keep the full approval record, signed Agreement, evidence manifest, tax/stamp evidence, and later amendments together.
+Sections 210 and 317 to 319 require director and member decision records and retention. The model articles additionally require sole-director written records for ten years. Keep the full approval record, signed Agreement and Operating Policy, tax and stamp evidence, special-resolution filing, and later amendments together. A separate evidence manifest is optional.
 
 ### 7.7 Financial-statement disclosure
 
@@ -286,44 +291,86 @@ Section 476 permits a liquidator to disclaim an unprofitable contract; sections 
 
 Even valid personal ownership may not prevent a temporary platform lock, preservation order, injunction, seizure of a Company-controlled device, or litigation over title. Personal registrar and root-account separation, immutable evidence, and a clean asset register reduce that risk more effectively than a dramatic "kill switch."
 
-## 9. Tax, invoicing, and stamp duty
+## 9. Tax, owner payments, SHA, invoicing, and stamp duty
 
-### 9.1 Royalty withholding tax
+### 9.1 Zero royalty and related-party risk
 
-Section 35(3)(g) of the [Income Tax Act](https://new.kenyalaw.org/akn/ke/act/1973/16/eng@2026-01-01) requires withholding on a resident royalty payment. The Third Schedule currently sets the resident rate at **5% of the gross royalty**. Section 35(5) requires remittance and a certificate; KRA guidance states the deadline is within five working days after deduction.
+The amended IP Licence charges no royalty or licence fee. With no royalty payment, section 35 royalty withholding, a personal royalty eTIMS invoice, monthly royalty statements, and personal royalty-income reporting do not arise merely from the Licence.
 
-For a resident payee, royalty WHT is generally advance tax rather than final tax. Charles must declare the full royalty income and claim the WHT credit in his annual return.
+Zero is simpler, but it is not automatically tax-neutral. Section 18(3) addresses a non-resident doing business with a related resident and does not directly govern the stated resident-to-resident arrangement. Section 18A is more relevant: it can apply when a resident does business with a related resident in a preferential tax regime and the arrangement produces no or less than ordinary gains. Its definition of preferential tax regime is broad enough to create a material question if Oark uses TOT. Section 23 also permits KRA to counteract a transaction whose main purpose or benefit is tax avoidance or reduction.
 
-Example, assuming a KES 100,000 royalty invoice before VAT:
+Obtain one current written Kenyan tax confirmation or KRA ruling before relying on the combined zero-royalty and TOT structure. The question should expressly cover sections 7A, 12C, 18A, and 23, the classification of Oark's actual income, and whether dividends from TOT-taxed profits face any additional Company-level charge. This is a one-time classification task unless facts or law change.
 
-| Item | Amount |
+### 9.2 Turnover Tax
+
+Section 12C of the [Income Tax Act](https://new.kenyalaw.org/akn/ke/act/1973/16/eng@2026-01-01) applies TOT to a resident person, including a resident company, whose annual business turnover is more than KES 1,000,000 and does not exceed or is not expected to exceed KES 25,000,000. The current statutory rate is 1.5% of gross receipts. The tax period is a calendar month, and the return and payment are due by the twentieth day of the following month.
+
+At approximately KES 150,000 per month, annualised turnover is KES 1,800,000, which is inside the statutory band if the receipts are qualifying business turnover. The KRA website has displayed conflicting legacy threshold text on different pages; use the current Act, which states KES 25,000,000, unless the law changes.
+
+TOT does not apply to rental income, management or professional or training fees, or income subject to final withholding tax. Software product sales and subscriptions appear more plausible for TOT than a personal management or consultancy fee, but the actual contracts and income streams control. Register through iTax before relying on the regime.
+
+TOT is a final tax on the qualifying business turnover, and expenses are not deductible in calculating it. Oark must therefore compare 1.5% of gross receipts with ordinary corporation tax on net profit when its cost ratio changes. Simplicity, not the headline rate alone, is the present reason for considering TOT.
+
+### 9.3 TOT is not a withdrawal method
+
+TOT determines Oark's tax; it does not turn Oark's bank balance into Charles's money. Customer receipts remain Company money. A transfer to Charles still needs a true legal category: genuine expense reimbursement, repayment of a genuine Company debt to him, a lawful dividend, or payroll/remuneration.
+
+The Operating Policy uses this order:
+
+1. Oark pays genuine Company suppliers directly;
+2. reimburse actual Oark expenses Charles paid, without markup and with receipts;
+3. repay principal on a verified director-loan credit balance;
+4. pay quarterly interim dividends only from profits lawfully available for distribution; and
+5. activate salary only through a later written employment and payroll decision.
+
+Do not use undocumented drawings, Company payment of personal bills, a fabricated director loan, or an overdrawn director current account.
+
+### 9.4 Reimbursements and director-loan repayments
+
+A reimbursement should equal a genuine Company expense Charles actually paid as agent for Oark and should be supported by the supplier evidence and business purpose. A director-loan repayment should reduce a balance reconstructed from actual cash advanced and genuine Oark costs paid personally, less prior repayments.
+
+Neither route creates recurring personal income merely because principal or an exact business expense is repaid, but the evidence and substance control. Do not include unpaid labour, personal living costs, Product IP never sold to Oark, or personally owned domains and assets merely used by Oark. Repayment is the easiest cash route only to the extent Oark already owes a real debt; it cannot provide recurring income after the balance reaches zero.
+
+### 9.5 Dividends
+
+Article 73 of the Fourth Schedule model articles permits directors to pay an interim dividend that appears justified by Company profits, subject to Part XVII of the Companies Act. Oark therefore needs current figures showing cumulative realised profits after prior losses, tax, refunds, expenses, and prior distributions. Cash in the bank alone is not distributable profit.
+
+As at 24 July 2026, a qualifying dividend paid to a resident individual is generally subject to 5% final withholding tax. Oark should deduct and remit it within five working days and retain the certificate. Paying one supported interim dividend each quarter using `oark-interim-dividend-record.md` reduces filings; Charles can hold the net amount personally and budget it monthly.
+
+Planning illustrations, assuming TOT at 1.5%, a lawful qualifying dividend at 5% WHT, no VAT in the stated sales, and monthly figures:
+
+| Scenario | Estimated result |
 |---|---:|
-| Gross royalty | KES 100,000 |
-| WHT at 5% | KES 5,000 |
-| Net payment before any VAT mechanics | KES 95,000 |
-| Income Charles declares | KES 100,000 |
+| KES 150,000 sales and no operating costs | KES 140,363 net dividend |
+| KES 150,000 sales and KES 50,000 operating costs | KES 92,863 net dividend |
+| Sales needed for KES 150,000 net dividend with no operating costs | KES 160,299 |
+| Sales needed for KES 150,000 net dividend plus KES 50,000 operating costs | KES 211,061 |
 
-### 9.2 Section 18(3) correction
+The KES 50,000 cost case produces a personal cash gap of about KES 57,137. A new payment label cannot close that economic gap.
 
-The rough draft said arm's-length terms were required by section 18(3). That subsection addresses a **non-resident** doing business with a related resident. It does not directly govern this stated resident-to-resident arrangement.
+### 9.6 Salary and payroll
 
-Commercial support remains important for director duties, financial reporting, tax substance, deductibility, and insolvency evidence. Do not cite section 18(3) as a false badge of KRA approval.
+A director is not automatically an employee merely by holding office. Once Oark and Charles create a contract of service or pay salary or other employment remuneration, PAYE and employment obligations apply according to substance. Director's fees and management fees are not low-administration substitutes; KRA includes director's fees in taxable employment income.
 
-### 9.3 eTIMS
+At the current 2026 planning rates, payroll includes PAYE, employee and employer Affordable Housing Levy at 1.5% each, employee SHA at 2.75%, and employee and employer NSSF at 6% each subject to the Year 4 cap of KES 6,480 for each side. PAYE, SHA, NSSF, and housing-levy filings and payments have monthly deadlines, and the Employment Act adds a written contract, payslips, leave, and employment records.
 
-Regulations 3 and 4 of the [Tax Procedures (Electronic Tax Invoice) Regulations, 2024](https://new.kenyalaw.org/akn/ke/act/ln/2024/64/eng@2024-03-28) generally require a person carrying on business to use the system, record sales, generate invoices, send them to the buyer, and transmit details to KRA unless excluded or exempted.
+Using those rates and no additional personal relief or deduction, a gross salary of about KES 219,201 is required to net about KES 150,000. Employer NSSF and housing levy make Oark's salary cost about KES 228,969 before TOT or any other operating expense. Under TOT, sales of about KES 232,456 with no other costs, or KES 283,217 with KES 50,000 of other costs, would be needed to fund that payroll. Salary is therefore not presently the easy route.
 
-The exclusion for expenses subject to WHT that is a **final tax** does not ordinarily cover a resident royalty because its WHT is generally not final. Charles should onboard the appropriate eTIMS solution and issue a compliant invoice. Confirm the position with a Kenyan tax adviser before the first royalty.
+### 9.7 SHA and medical cover
 
-### 9.4 VAT and cross-border sales
+Under the latest consolidated [Social Health Insurance Regulations](https://new.kenyalaw.org/akn/ke/act/ln/2024/49/eng@2025-02-28), a household without salaried income pays an annual contribution based on 2.75% of household income determined by means testing, with a minimum equivalent to KES 300 per month. A contributor can register a qualifying spouse, children, and other qualifying beneficiaries.
 
-Check Charles's VAT-registration obligation and Oark's VAT/digital-marketplace obligations from current turnover and supply facts. Do not add VAT unless legally chargeable; do not omit it if registration is required. International customer location does not by itself make all software revenue tax-free.
+While Charles has no Oark salary, personal non-salaried SHA is the proportionate default. If Oark later employs him for salary, Oark must register as employer, deduct 2.75% from gross salary, and remit it by the ninth day of the following month. A private corporate medical policy is optional and is not required by the drafts.
 
-### 9.5 2026 Oark bookkeeping
+### 9.8 eTIMS, VAT, and 2026 books
 
-Oark has received Blober payments since January 2026. Begin proper 2026 books now, including gross sales, processor fees, refunds, exchange rates, customer location where lawfully held, eTIMS records, and tax treatment. Do not file a nil 2026 return if Oark has revenue. Do not fabricate retroactive invoices or dates; use lawful corrective procedures and an accountant.
+Regulations 3 and 4 of the [Tax Procedures (Electronic Tax Invoice) Regulations, 2024](https://new.kenyalaw.org/akn/ke/act/ln/2024/64/eng@2024-03-28) generally require a person carrying on business to record sales and use eTIMS unless excluded or exempted. Oark, as seller, should issue or retain the required sales invoices. The zero-royalty Licence does not require Charles to invoice Oark personally.
 
-### 9.6 Stamp duty
+Oark has received Blober payments since January 2026. Begin proper 2026 records now, including gross customer charges, processor settlements and fees, refunds, exchange rates, customer location where lawfully held, eTIMS references, and tax treatment. Do not file a nil 2026 return if Oark has revenue, and do not fabricate retroactive invoices, expenses, loans, or dates.
+
+At current guidance, a TOT taxpayer making taxable supplies must register for VAT at KES 5,000,000 turnover. Check any rule requiring registration regardless of turnover and the treatment of cross-border digital supplies. International customer location does not by itself make all software revenue tax-free.
+
+### 9.9 Stamp duty
 
 Under sections 5 and 6 and item 1 of the Schedule to the [Stamp Duty Act, Cap. 480](https://new.kenyalaw.org/akn/ke/act/1958/31/eng@2025-07-01), an ordinary agreement not otherwise specifically charged is generally subject to KES 100 duty, payable by the first executor within 30 days after first execution.
 
@@ -419,10 +466,10 @@ Preserve historical evidence and third-party notices. Do not rewrite old invoice
 | Rough-draft provision | Legal problem | Treatment in final draft |
 |---|---|---|
 | "All digital infrastructure is IP" | Accounts, customer data, merchant funds, and provider contracts are not automatically IP and may be Oark property | Defines Owner Infrastructure item by item and excludes Company Materials and Personal Data |
-| "Zero ownership" declaration alone | Labels do not defeat actual title, employment rights, prior assignments, or creditor evidence | Adds provenance, exclusions, confirmatory fallback, and evidence manifest |
+| "Zero ownership" declaration alone | Labels do not defeat actual title, employment rights, prior assignments, or creditor evidence | Adds provenance, exclusions, confirmatory fallback, and an optional event-driven evidence record |
 | Africa-only territory | Inconsistent with current international sales and desired worldwide use | Worldwide but non-exclusive licence |
-| Nominal fee to satisfy section 18(3) | Section 18(3) is misapplied to a stated resident-to-resident deal; nominal pricing can weaken insolvency and duty evidence | 15% Adjusted Gross Receipts plus documented commercial rationale |
-| Company pays a low percentage of gross revenue | No defined base, currency, refunds, processor fees, WHT, VAT, statements, or audit | Detailed Adjusted Gross Receipts, KES conversion, eTIMS, WHT, records, and audit clauses |
+| Nominal fee to satisfy section 18(3) | Section 18(3) is misapplied to the stated resident-to-resident deal, and any royalty creates invoices, WHT, and personal-income administration | Royalty-free licence, with a one-time sections 18A and 23 tax review rather than recurring royalty machinery |
+| Company pays a percentage of gross revenue | A revenue share creates calculations, statements, personal invoices, withholding, and annual personal royalty reporting | Zero royalty and no recurring licence administration |
 | "No creditor or liquidator has any right" | Cannot bind non-parties or disapply statutory powers | States intended title boundary while expressly preserving mandatory powers |
 | Automatic termination on a lawsuit threat | Vague, manipulable, commercially disruptive, and may prejudice customers or creditors | Proportionate suspension, defined breach termination, 30-day without-cause right, and insolvency qualification |
 | No notice, order, or resolution needed | Conflicts with contract notice, Company approval, execution, due process, and insolvency law | Requires notice, corporate record, witness, and lawful process |
@@ -435,6 +482,7 @@ Preserve historical evidence and third-party notices. Do not rewrite old invoice
 | No customer run-off | Risks breach of lifetime licences, refunds, and consumer claims | Existing valid end-user rights survive; no new sales after termination |
 | No open-source schedule | Overstates exclusivity and ignores GPL/MIT/LGPL rights | Existing-open-licence and Third-Party Materials schedules |
 | No employment-IP qualification | Microsoft may assert a superior right depending on contract | Express representation plus mandatory pre-signing employment review |
+| Future work is described as always independent and personally funded | Contradicts the plan for Charles to work inside Oark and can undermine the intended ownership exclusion | Express section 31 agreement that Charles owns Improvements even when working for Oark or using Oark-provided resources |
 
 ## 14. Risk register before execution
 
@@ -446,11 +494,13 @@ Preserve historical evidence and third-party notices. Do not rewrite old invoice
 | High | GPL/MIT public licence history | Preserve existing grants; define proprietary treatment prospectively only |
 | High | Lifetime customer update promises | Revise customer terms prospectively and make a realistic run-off/support plan |
 | High | Domains and root accounts use Oark email | Transfer to personal root control or accept the documented practical risk and maintain nominee evidence |
-| High | 2026 sales and no accountant | Start proper books, eTIMS, WHT, VAT review, and tax compliance immediately |
+| High | 2026 sales and no verified tax setup | Start lightweight books, confirm iTax obligations and TOT eligibility, and review eTIMS and VAT immediately |
+| High | Zero royalty combined with related-party TOT | Obtain one written opinion or KRA ruling covering sections 7A, 12C, 18A, and 23 before relying on the combination |
+| High | No verified director-loan opening balance | Reconstruct only from bank transfers and genuine Company expenses before making any loan repayment |
 | High | Related-party sole-director conflict | Execute member consent, disclosure, solvency record, and independent advocate review |
 | High | Registered-office discrepancy | Confirm BRS address and file change; DUNS does not update BRS |
 | Medium | No KECOBO/KIPI registration | Register core copyright and marks personally after clearance |
-| Medium | No independent valuation | Obtain a short valuation or benchmarking memo supporting 15% and Company benefit |
+| Medium | Charles's SHA status not verified | Register or update the personal non-salaried household and qualifying beneficiaries; switch to employer deduction only if salary starts |
 | Medium | Third-party provider and LGPL obligations | Maintain SBOM/notices and obtain release-specific licence review |
 
 ## 15. Execution sequence
@@ -461,21 +511,22 @@ Preserve historical evidence and third-party notices. Do not rewrite old invoice
 2. Verify and print Oark's current register of members, register of directors, register of beneficial owners, and register of charges.
 3. Correct the registered office at BRS if Kenyatta Avenue is intended to replace Unity Plaza.
 4. Decrypt the Microsoft documents locally and have the relevant IP/outside-work clauses reviewed.
-5. Complete the solvency figures and attach current bank, liabilities, tax, and sales evidence to the corporate approval record.
-6. Obtain a Kenyan advocate's final review and a tax/accounting review.
-7. Obtain a short valuation or benchmarking note for the 15% royalty.
-8. Insert final repository commit hashes, domain records, and release-key fingerprints into the confidential evidence manifest.
-9. Update the agreement if any fact or current Company record differs.
-10. Freeze the final Markdown and PDF; do not edit one without regenerating and rechecking the other.
+5. Complete the short solvency checkboxes truthfully and attach an explanation only for an exception.
+6. Obtain a Kenyan advocate's final review and one tax-classification review covering TOT, the royalty-free related-party licence, dividends, eTIMS, VAT, and active iTax obligations.
+7. Reconstruct any director-loan credit balance from bank transfers and genuine Company expenses; use zero if it cannot be proved.
+8. Register or update Charles and qualifying beneficiaries for personal non-salaried SHA if no salary will start.
+9. Insert final repository commit hashes, domain records, and release-key fingerprints into the confidential evidence record if maintained.
+10. Update the documents if any fact, current Company record, or tax classification differs.
+11. Freeze the final Markdown and PDF; do not edit one without regenerating and rechecking the other.
 
 ### Phase 2 - Corporate approval
 
-1. Attach the exact final Agreement to the corporate approval record.
+1. Attach the exact final Agreement as Annex 1 and the exact final Operating Policy as Annex 2 to the corporate approval record.
 2. Sign Part A as sole Member on the true date.
 3. Sign Part B as conflict disclosure.
-4. Complete and sign Part C only if the solvency statements are true.
+4. Complete Part C only if the solvency statements are true.
 5. Sign Part D as the director's implementation record.
-6. Keep the witnesses independent, adult, identifiable, and physically present where they attest a signature.
+6. The internal member and director records do not add separate witness blocks; use a witness where the Agreement's Company execution block or another mandatory formality requires one.
 
 ### Phase 3 - Agreement execution
 
@@ -484,62 +535,37 @@ Preserve historical evidence and third-party notices. Do not rewrite old invoice
 3. Sign the Oark block separately in the physical presence of the Company-signature witness.
 4. Date each signature truthfully.
 5. Do not sign a blank Schedule or incomplete solvency statement.
-6. Scan the entire signed instrument, including Schedules and witness blocks, as one PDF.
+6. Scan the entire signed Agreement, including Schedules and witness blocks, as one PDF and retain the signed approval record with both Annexes.
 
 ### Phase 4 - Stamp duty and registration
 
 1. Request KRA adjudication under section 17 because the instrument includes valuable rights and a contingent assignment.
 2. Pay and evidence the assessed duty within the applicable period, ordinarily 30 days after first execution.
-3. If a confirmatory copyright assignment later becomes operative, execute and record it at KECOBO under section 33(3A).
-4. File KIPI trade-mark applications after clearance.
+3. Lodge the special resolution with the Registrar within the statutory period and retain the filing receipt.
+4. If a confirmatory copyright assignment later becomes operative, execute and record it at KECOBO under section 33(3A).
+5. File KIPI trade-mark applications after clearance.
 
-### Phase 5 - Email evidence
+### Phase 5 - Optional electronic archive
 
-After signing and scanning, calculate the hash locally:
+Emailing between two accounts controlled by Charles is not required. Oark only needs to retain the complete executed package with its statutory records. For additional integrity evidence, calculate a hash locally:
 
 ```sh
 shasum -a 256 oark-ip-licence-agreement-signed.pdf
 ```
 
-Send from <mckabue@gmail.com> to <oarklimited@gmail.com> with:
-
-**Subject:** `EXECUTED - Oark IP Licence - Effective 1 August 2026`
-
-**Body:**
-
-> Oark Limited,
->
-> Attached is the complete executed Intellectual Property Ownership Confirmation and Non-Exclusive Commercial Licence Agreement between me personally as Licensor and Oark Limited as Licensee, together with the corporate approval record.
->
-> The Agreement was signed on [TRUE DATE]. Its stated commercial Effective Date is 1 August 2026, provided it was duly executed by then; it is not backdated.
->
-> Signed PDF SHA-256: [INSERT HASH]
->
-> Please acknowledge from this Company email account that Oark Limited received the complete attachment, accepts it for its statutory and accounting records, and has recorded the related member and director decisions.
->
-> Charles Njogu Kabui
-> Personal capacity as Licensor
-
-Reply from <oarklimited@gmail.com>:
-
-> Oark Limited acknowledges receipt of the complete executed Agreement and corporate approval record identified by SHA-256 [INSERT HASH]. The documents have been entered in the Company's records under reference [INSERT]. This acknowledgment confirms receipt and record entry; it does not replace the signatures, witness attestations, statutory approvals, stamp duty, or other legal requirements.
->
-> Charles Njogu Kabui
-> Sole Director, for Oark Limited
-
-Export both messages in native format with full headers. Do not rely only on screenshots or forwarded copies.
+Store the hash with the signed PDF, corporate approval, special-resolution filing, witness details, and stamp-duty evidence. A native email or timestamp report may be retained if one already forms part of the signing process, but do not create an exchange merely for appearance.
 
 ### Phase 6 - Ongoing compliance
 
-1. Issue separate monthly Blober and ToKnow statements, including nil statements.
-2. Charles issues the required eTIMS invoice.
-3. Oark deducts 5% WHT from the gross royalty, remits it within five working days, and provides the certificate.
-4. Oark pays the net royalty within the contractual deadline.
-5. Reconcile processor, bank, eTIMS, WHT, and accounting records monthly.
-6. Review solvency and Company benefit at least annually and before an unusual payment or assignment.
-7. Disclose the material director interest in financial records and statements as required.
-8. Keep current SBOM, third-party notices, customer terms, privacy notices, and data-processing records.
-9. Update the evidence manifest when a domain, repository, release key, or root account changes.
+1. For each sale, keep the customer charge, processor settlement, refund, bank, and required eTIMS evidence.
+2. Once each month, reconcile sales and file and pay TOT by the twentieth day while Oark is validly registered and eligible.
+3. Reimburse only genuine Company expenses and repay no more than a verified director-loan credit balance.
+4. Once each quarter, pay an interim dividend only if current profits and cash justify it; remit applicable WHT within five working days.
+5. Keep payroll inactive unless a later member decision, employment contract, registrations, and cash forecast activate it. Apply to cancel an unneeded PAYE obligation, but file nil returns until KRA confirms cancellation.
+6. Charles pays and renews personal non-salaried SHA while he has no salary; Oark switches to employer deduction if salary starts.
+7. Complete required annual Company financial, tax, BRS, registered-office, member, director, beneficial-owner, and charge records.
+8. Disclose the material director interest in financial records and statements as required.
+9. Keep current SBOM, third-party notices, customer terms, privacy notices, and data-processing records.
 10. Never represent that this package has been approved by KRA, KECOBO, BRS, NCIA, a court, or an advocate unless that is actually true.
 
 ## 16. Primary sources
@@ -550,7 +576,7 @@ The principal current official sources reviewed were:
 2. [Companies Act, 2015](https://new.kenyalaw.org/akn/ke/act/2015/17/eng@2024-12-27), especially sections 21, 30, 32, 37, 46 to 47, 102, 142 to 151, 158, 207, 210, 262 to 272, and 317 to 319.
 3. [Companies (General) Regulations](https://new.kenyalaw.org/akn/ke/act/ln/2015/239/eng@2022-12-31), especially regulations 8, 38, 61 to 67 and the Fourth, Seventh, and Eighth Schedules.
 4. [Insolvency Act, 2015](https://new.kenyalaw.org/akn/ke/act/2015/18/eng@2022-12-31), especially sections 429, 443 to 445, 476, 576 to 585, and 682 to 685.
-5. [Income Tax Act](https://new.kenyalaw.org/akn/ke/act/1973/16/eng@2026-01-01), especially sections 2, 18, 35 and the Third Schedule.
+5. [Income Tax Act](https://new.kenyalaw.org/akn/ke/act/1973/16/eng@2026-01-01), especially sections 2, 7, 7A, 12C, 18, 18A, 23, 35, 37 and the Third Schedule.
 6. [Tax Procedures (Electronic Tax Invoice) Regulations, 2024](https://new.kenyalaw.org/akn/ke/act/ln/2024/64/eng@2024-03-28), especially regulations 3 to 12.
 7. [Stamp Duty Act, Cap. 480](https://new.kenyalaw.org/akn/ke/act/1958/31/eng@2025-07-01), especially sections 5, 6, 17, 19, and Schedule item 1.
 8. [Kenya Information and Communications Act](https://new.kenyalaw.org/akn/ke/act/1998/2), especially sections 83G to 83P.
@@ -559,7 +585,10 @@ The principal current official sources reviewed were:
 11. [Consumer Protection Act, 2012](https://new.kenyalaw.org/akn/ke/act/2012/46), especially sections 3 to 7, 12 to 16, 31 to 33, 77 to 80, 87 and 88.
 12. [Arbitration Act, 1995](https://new.kenyalaw.org/akn/ke/act/1995/4), especially sections 4, 6, 7, 9, 17 to 20, and 35 to 37.
 13. [Trade Marks Act, Cap. 506](https://new.kenyalaw.org/akn/ke/act/1955/51/eng@2022-12-31).
-14. [KRA withholding-tax guidance](https://www.kra.go.ke/individual/filing-paying/types-of-taxes/individual-withholding-tax), used as administrative guidance subordinate to the tax statutes.
+14. [Employment Act](https://new.kenyalaw.org/akn/ke/act/2007/11/eng@2024-04-26), especially sections 2, 9 to 10, 17 to 21, 28 to 35, and 74.
+15. [Social Health Insurance Regulations](https://new.kenyalaw.org/akn/ke/act/ln/2024/49/eng@2025-02-28), especially regulations 12, 17, 18, 21 and 22.
+16. [KRA TOT guidance](https://www.kra.go.ke/individual/filing-paying/types-of-taxes/turnover-tax-tot), [PAYE guidance](https://www.kra.go.ke/individual/filing-paying/types-of-taxes/paye), and [withholding-tax guidance](https://www.kra.go.ke/individual/filing-paying/types-of-taxes/individual-withholding-tax), used as administrative guidance subordinate to the statutes.
+17. [NSSF Year 4 (2026) notice](https://www.nssf.or.ke/notice-to-employers-year-4-2026-nssf-contribution-rates), used for the current contribution cap.
 
 ## 17. Final recommendation
 
@@ -570,10 +599,12 @@ The minimum responsible pre-signing conditions are:
 1. current BRS search and filed articles;
 2. Microsoft employment-IP review;
 3. completed solvency and Company-benefit record;
-4. Kenyan advocate and tax-accountant review;
-5. exact repository/domain evidence manifest;
-6. customer-data incident assessment;
-7. honest treatment of GPL/MIT/LGPL and customer lifetime rights; and
-8. witnessed Company execution, KRA stamp-duty adjudication, and preserved electronic evidence.
+4. one current tax review of TOT eligibility, the zero-royalty related-party arrangement, dividends, eTIMS, VAT, and active iTax obligations;
+5. a verified director-loan balance or an express zero balance;
+6. correct personal SHA status if no salary starts;
+7. exact repository and domain evidence sufficient to support personal title;
+8. customer-data incident assessment;
+9. honest treatment of GPL/MIT/LGPL and customer lifetime rights; and
+10. witnessed Company execution, special-resolution filing, KRA stamp-duty adjudication, and preserved electronic evidence.
 
 If those conditions reveal that Oark or Microsoft owns any material right, do not conceal or relabel it. Use a properly valued, approved, recorded, and solvent transfer or redesign the licence around the rights Charles can actually prove he owns.

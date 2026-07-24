@@ -2,6 +2,24 @@
 
 This folder provides a reusable A4 Oark Limited document style and a PAdES PDF-signing workflow.
 
+## Current corporate package
+
+1. `oark-ip-licence-agreement.md` - personal IP ownership confirmation and royalty-free Company licence.
+2. `oark-corporate-approval-record.md` - sole-member approval, conflict disclosure, and sole-director implementation record.
+3. `oark-operating-and-owner-payment-policy.md` - ordinary operations, TOT, personal IP, SHA, and owner-payment rules.
+4. `oark-interim-dividend-record.md` - reusable one-page record for a profit-backed quarterly interim dividend.
+5. `kenyan-law-review-and-execution-guide.md` - legal and tax analysis, unresolved risks, and execution sequence.
+
+Render the complete draft package with:
+
+```sh
+quarto render oark-ip-licence-agreement.md --to pdf
+quarto render oark-corporate-approval-record.md --to pdf
+quarto render oark-operating-and-owner-payment-policy.md --to pdf
+quarto render oark-interim-dividend-record.md --to pdf
+quarto render kenyan-law-review-and-execution-guide.md --to pdf
+```
+
 ## Create a document
 
 1. Copy `document-template.md` to a descriptive Markdown filename.
@@ -18,11 +36,22 @@ The logo is branding, not an execution requirement. Regulations 14 to 16 of the 
 
 ## Before signing
 
-1. Finalise and approve the source document.
-2. Render the final PDF once.
-3. Do not edit, optimise, print-to-PDF, or regenerate it after the first cryptographic signature.
-4. Use a dedicated document-signing certificate issued to the actual signer. Do not use the installed Apple Developer ID certificates: their critical Extended Key Usage is Code Signing, not document signing.
-5. For the IP agreement, corporate approval and witness formalities remain necessary. A cryptographic signature proves control of a key and document integrity; it does not by itself prove corporate authority, informed consent, physical witnessing, stamp duty, or valid member approval.
+Critical checkpoints are detailed in the legal review guide and must not be replaced by PDF-signing steps:
+
+- [ ] Microsoft employment IP and outside-work terms reviewed locally;
+- [ ] current BRS search, filed articles, Company registers, charges, and annual return verified;
+- [ ] Blober customer-data and Git-history incident assessed, exposed secrets rotated, and remediation decided;
+- [ ] zero-royalty/TOT tax confirmation obtained, or TOT left inactive;
+- [ ] director-loan opening balance supported by evidence or recorded as KES 0; and
+- [ ] Charles's personal non-salaried SHA status confirmed if no salary starts.
+
+1. Resolve or consciously accept the pre-signing risks in the legal review guide.
+2. Attach the exact final Agreement as Annex 1 and the exact final Operating Policy as Annex 2 to the corporate approval record.
+3. Finalise and approve the source documents.
+4. Render each final PDF once.
+5. Do not edit, optimise, print-to-PDF, or regenerate a PDF after its first cryptographic signature.
+6. Use a dedicated document-signing certificate issued to the actual signer. Do not use the installed Apple Developer ID certificates: their critical Extended Key Usage is Code Signing, not document signing.
+7. For the IP agreement, corporate approval and witness formalities remain necessary. A cryptographic signature proves control of a key and document integrity; it does not by itself prove corporate authority, informed consent, physical witnessing, stamp duty, special-resolution filing, or valid member approval.
 
 ## Sign a PDF with PAdES
 
@@ -64,12 +93,12 @@ For unattended local automation, put only the password in a mode-600 file outsid
 
 Unless every human signer has a purpose-appropriate document-signing certificate and the chosen platform reliably records witness presence and attestation, use this hybrid sequence:
 
-1. Print the final approved agreement and corporate record.
+1. Print the final approved Agreement and corporate record with the Operating Policy identified as Annex 2.
 2. Sign the Licensor block personally.
 3. Sign the Oark block separately in the physical presence of the independent witness, who signs the attestation.
 4. Scan every signed page and Schedule into one PDF without editing the scan afterward.
 5. Apply an Oark Limited PAdES document seal, preferably with an RFC 3161 timestamp, to the complete scan.
-6. Validate the seal, save the validation report and SHA-256 hash, then send the sealed PDF through the designated email exchange.
+6. Validate the seal and keep the validation report and SHA-256 hash with Oark's statutory records, special-resolution filing, and stamp-duty evidence. Emailing between accounts controlled by the same person is optional.
 
 The PAdES seal protects the final scanned record from undetected alteration. It supplements rather than replaces the underlying human signatures and witness evidence.
 
@@ -114,4 +143,4 @@ Hashes detect later changes but do not identify a signer. Generate a manifest wi
 scripts/hash-pdfs.sh pdf-sha256.txt document-one.pdf document-two.pdf
 ```
 
-Keep the manifest, native email files with full headers, signed PDFs, certificate chain, timestamp and validation reports, corporate approvals, witness evidence, and stamp-duty evidence together.
+Keep the manifest, signed PDFs, certificate chain, timestamp and validation reports, corporate approvals, special-resolution filing, witness evidence, and stamp-duty evidence together. Keep native email files with full headers only if email was actually used as part of execution or delivery.
